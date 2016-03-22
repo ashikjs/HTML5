@@ -1,0 +1,10 @@
+body 
+{
+margin: 0; 
+padding: 0; 
+font-size: 90%; 
+font-family: georgia, times, "times new roman", serif; 
+}
+.ex_c {
+	color: red;
+}
