@@ -3,8 +3,20 @@ body
 margin: 0; 
 padding: 0; 
 font-size: 90%; 
-font-family: georgia, times, "times new roman", serif; 
+font-family: Arial, Helvetica, sans-serif;
 }
+h1{ margin-top: 100px;} 
 .ex_c {
 	color: red;
+	
+		-webkit-transition: 5s;
+	 -ms-transition: 5s;
+	transition:  5s ;
+}
+.ex_c:hover {
+	color: green;
+	font-size: 600%; 
+	cursor:pointer;
+	position: absolute;
+
 }
