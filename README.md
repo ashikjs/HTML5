@@ -7,3 +7,4 @@ here you get a basic html5 template for start your code with html5, css, boostra
 ***Bootstrap v3.3.7***
 
 ***Fontawesome Version 4.7.0***
+***Great Responsive Layout CSS***
