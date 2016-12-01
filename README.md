@@ -1,6 +1,7 @@
 # HTML5
 HTML5 +Boilerplate + Font Awasam 
-here you get a basic html5 template for start your code with html5, css, boostrap and fontawsam
+here you get a basic html5 template for start your code with html5, css, boostrap and fontawsam.
+Also Get both Version minfied and unminfied.
 #Update Libbery 
 ***jQuery 3.1.1***
 
