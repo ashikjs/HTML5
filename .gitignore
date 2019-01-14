@@ -279,3 +279,6 @@ wp-content/plugins/hello.php
 
 
 # End of https://www.gitignore.io/api/node,angular,phpstorm,wordpress,phpstorm+all,visualstudiocode
+
+## Basic use
+*.zip
