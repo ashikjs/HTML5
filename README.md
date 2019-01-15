@@ -5,8 +5,14 @@ Also Get both Version minfied and unminfied.
 #Update Libbery 
 ***jQuery 3.1.1***
 
-***Bootstrap v3.3.7***
+***Bootstrap v3.4.0***
 
-***Fontawesome Version 4.7.0***
+***Bootstrap v4.2.1***
+
+***CDN Fontawesome V 5.6.3 with SVG***
+
+***How to call custom Fonts***
+
+**Basic Meta tag***
 
 ***Great Responsive Layout CSS***
