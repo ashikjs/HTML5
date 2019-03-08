@@ -42,6 +42,12 @@ ul,ol {
     margin: 0;
     list-style: none;
 }
+/*** Fixed Height and Parent div flex ***/
+.verticalCenter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 /***********css Animation*********/
 h1.h1_ {
     margin-top: 100px;
