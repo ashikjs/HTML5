@@ -1,37 +1,41 @@
-/*****Custome fonts *****/
-@font-face {
-    font-family: 'Arvo';
-    font-weight: 400;
-    src: url('../fonts/Arvo/Arvo-Regular.ttf') format('truetype');
-    /*url('myfont.woff2') format('woff2'),*/
-    /*url('myfont.woff') format('woff');*/
-}
+/***** Google fonts *****/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+/***** Custom fonts *****/
+/*@font-face {*/
+    /*font-family: 'Arvo';*/
+    /*font-weight: 400;*/
+    /*src: url('../fonts/Arvo/Arvo-Regular.ttf') format('truetype');*/
+    /*!*url('myfont.woff2') format('woff2'),*!*/
+    /*!*url('myfont.woff') format('woff');*!*/
+/*}*/
 
-@font-face {
-    font-family: 'Arvo';
-    font-weight: 400;
-    font-style: italic;
-    src: url('../fonts/Arvo/Arvo-Italic.ttf') format('truetype');
-}
+/*@font-face {*/
+    /*font-family: 'Arvo';*/
+    /*font-weight: 400;*/
+    /*font-style: italic;*/
+    /*src: url('../fonts/Arvo/Arvo-Italic.ttf') format('truetype');*/
+/*}*/
 
-@font-face {
-    font-family: 'Arvo';
-    font-weight: 800;
-    src: url('../fonts/Arvo/Arvo-Bold.ttf') format('truetype');
-}
+/*@font-face {*/
+    /*font-family: 'Arvo';*/
+    /*font-weight: 800;*/
+    /*src: url('../fonts/Arvo/Arvo-Bold.ttf') format('truetype');*/
+/*}*/
 
-@font-face {
-    font-family: 'Arvo';
-    font-weight: 800;
-    font-style: italic;
-    src: url('../fonts/Arvo/Arvo-BoldItalic.ttf') format('truetype');
-}
+/*@font-face {*/
+    /*font-family: 'Arvo';*/
+    /*font-weight: 800;*/
+    /*font-style: italic;*/
+    /*src: url('../fonts/Arvo/Arvo-BoldItalic.ttf') format('truetype');*/
+/*}*/
 
 body {
     margin: 0;
     padding: 0;
     font-size: 14px;
-    font-family: 'Arvo', sans-serif;
+    /*font-family: 'Arvo', sans-serif;*/
+    font-family: 'Open Sans', sans-serif;
+
 }
 ul,ol {
     padding: 0;
