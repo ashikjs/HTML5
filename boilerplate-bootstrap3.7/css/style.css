@@ -48,6 +48,12 @@ ul, ol {
     flex-direction: column;
     justify-content: center;
 }
+.equal {
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+}
+
 /***********css Animation*********/
 h1.h1_ {
     margin-top: 100px;
