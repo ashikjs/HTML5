@@ -7,12 +7,14 @@ Also Get both Version minfied and unminfied.
 
 ***Bootstrap v3.4.0***
 
-***Bootstrap v4.2.1***
+***Bootstrap v4.5.0***
 
-***CDN Fontawesome V 5.6.3 with SVG***
+***Bootstrap Icons docs link***
+
+***CDN Fontawesome V 5.13.0 with SVG***
 
 ***How to call custom Fonts***
 
-**Basic Meta tag***
+***Basic Meta tag***
 
 ***Great Responsive Layout CSS***
