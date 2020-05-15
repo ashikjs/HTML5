@@ -11,7 +11,7 @@ Also Get both Version minfied and unminfied.
 
 ***Bootstrap Icons docs link***
 
-***Fontawesome V5.13.0***
+***Fontawesome v5.13.0***
 
 ***How to call custom Fonts***
 
