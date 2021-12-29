@@ -1,0 +1,20 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"../scss/app.scss",
+		"../scss/abstracts/_variables.scss",
+		"../scss/abstracts/_mixins.scss",
+		"../scss/_common.scss",
+		"../scss/common/_main.scss",
+		"../scss/common/_footer.scss",
+		"../scss/common/_header.scss",
+		"../scss/common/_sidebar.scss",
+		"../scss/_component.scss",
+		"../scss/component/_form.scss",
+		"../scss/component/_button.scss",
+		"../scss/_pages.scss"
+	],
+	"names": [],
+	"mappings": "AICA,AAAA,IAAI,CAAC,EACD,MAAM,EAAE,CAAC,EACT,OAAO,EAAE,CAAC,EACV,SAAS,EAAE,IAAI,EACf,WAAW,EAAE,uBAAuB,GACvC;;AACD,AAAA,EAAE,EAAC,EAAE,CAAC,EACF,OAAO,EAAE,CAAC,EACV,MAAM,EAAE,CAAC,EACT,UAAU,EAAE,IAAI,GACnB;;AACD,0CAA0C;AAC1C,AAAA,eAAe,CAAC,EACZ,OAAO,EAAE,IAAI,EACb,cAAc,EAAE,MAAM,EACtB,eAAe,EAAE,MAAM,GAC1B;;AACD,mCAAmC;AACnC,AAAA,EAAE,AAAA,IAAI,CAAC,EACH,UAAU,EAAE,KAAK,GACpB;;AAED,AAAA,KAAK,CAAC,EACF,KAAK,EAAE,GAAG,EAEV,kBAAkB,EAAE,EAAE,EACtB,cAAc,EAAE,EAAE,EAClB,UAAU,EAAE,EAAE,GACjB;;AAED,AAAA,KAAK,AAAA,MAAM,CAAC,EACR,KAAK,EAAE,KAAK,EACZ,SAAS,EAAE,IAAI,EACf,MAAM,EAAE,OAAO,EACf,QAAQ,EAAE,QAAQ,GAErB"
+}

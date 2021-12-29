@@ -1,0 +1,26 @@
+{
+  "name": "html-sass-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm start",
+    "build-css": "node-sass ./scss/app.scss ./css/main.css --output-style compact --source-map true ",
+    "build-css-minify": "node-sass ./scss/app.scss ./css/main.css --output-style compressed --source-map true ",
+    "watch": "nodemon -e scss -x \"npm run build-css\""
+  },
+  "keywords": [
+    "sass",
+    "html5",
+    "project",
+    "for",
+    "multi",
+    "bank"
+  ],
+  "author": "ashikjs",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.15"
+  }
+}

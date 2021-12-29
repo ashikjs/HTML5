@@ -1,0 +1,38 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+ul,ol {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+/*** Fixed Height and Parent div flex ***/
+.verticalCenter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+/***********css Animation*********/
+h1.h1_ {
+    margin-top: 100px;
+}
+
+.ex_c {
+    color: red;
+
+    -webkit-transition: 5s;
+    -ms-transition: 5s;
+    transition: 5s;
+}
+
+.ex_c:hover {
+    color: green;
+    font-size: 600%;
+    cursor: pointer;
+    position: absolute;
+
+}
